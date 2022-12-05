@@ -1,4 +1,4 @@
-# leetcode
+# leetcode https://leetcode.com/woxxel/
 Small problem solutions from my leetcode acc
 
 - twoSum.js	| Runtime: 108 ms | Memory Usage: 39.8 MB 
